@@ -1,5 +1,4 @@
 # DriftNSlide
-It's racing game, It can contol with arduino!
 <aside>
 <img width="630" height="500" alt="image" src="https://github.com/user-attachments/assets/bbd20b27-59cf-45d7-8e81-b821d05dd856" />
 
